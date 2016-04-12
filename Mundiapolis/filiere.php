@@ -8,7 +8,7 @@
 
 ?>
 
-<!DOCTYPE html>
+<!DOCTYPE html css >
 <!--[if IE 7 ]><html class="ie7" lang="en-US"><![endif]-->
 <!--[if IE 8 ]><html class="ie8" lang="en-US"><![endif]-->
 <!--[if IE 9 ]><html class="ie9" lang="en-US"><![endif]-->
